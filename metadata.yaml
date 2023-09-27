@@ -1,0 +1,26 @@
+_repo: Transactions-of-the-American-Society-of-Civil-Engineers-vol-LXXII-June-1911-b-Experiments-on-__71675
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cain, William
+    gutenberg_agent_id: '56323'
+    url: http://www.gutenberg.org/2009/agents/56323
+description: ''
+gutenberg_issued: '2023-09-18'
+identifiers:
+  gutenberg: '71675'
+language: en
+pgterms:marc905: 20060620134155various
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: Juliet Sutherland, David Wilson and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aNew York :$bAmerican Society of Civil Engineers, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Transactions of the American Society of Civil Engineers, vol. LXXII, June,
+  1911 : $b Experiments on retaining walls and pressures on tunnels'
+url: http://www.gutenberg.org/ebooks/71675
